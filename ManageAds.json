@@ -1,39 +1,44 @@
 {
-  "Admob_Settings": {
-    "APP_ID": "ca-app-pub-5501872138464418~3891403695",
-    "BANNER_ID": "ca-app-pub-5501872138464418/5012913672",
-    "INTERSTITIAL_ID": "ca-app-pub-5501872138464418/6134034012",
-    "NATIVE1_ID": "ca-app-pub-5501872138464418/6321561266",
-    "NATIVE2_ID": "ca-app-pub-5501872138464418/4661826788",
-    "TEST_MODE": true
-  },
-  "CPA": [
-    {
-      "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-      "Url": "https://www.google.com"
+    "EnableNotification": true,
+
+    "Init": {
+        "Admob": false,
+        "IS": true
     },
-    {
-      "Image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlZTM0NTA4MTZkYmIyNjJhYWMzYjM2OWMwYmEzNWRmNDM3ODAxZiZjdD1n/TI348Tcvl6yA9m1qnd/giphy.gif",
-      "Url": "https://www.facebook.com/"
-    }
-  ],
-  "EnableNotification": true,
-  "EnabledAds": {
-    "Banner": true,
-    "Inter": true,
-    "Native": true
-  },
-  "Init": {
-    "Admob": false,
-    "IS": true
-  },
-  "MainAds": {
-    "AdBottom": "OFF",
-    "AdTop": "OFF"
-  },
-  "PlatformAds": {
-    "Banner": "ADMOB",
-    "Inter": "ADMOB",
-    "Native": "CPA"
-  }
+
+    "EnabledAds": {
+        "Banner": true,
+        "Inter": true,
+        "Native": true
+    },
+
+    "MainAds": {
+        "AdBottom": "OFF",
+        "AdTop": "OFF"
+    },
+    
+    "PlatformAds": {
+        "Banner": "ADMOB",
+        "Inter": "ADMOB",
+        "Native": "CPA"
+    },
+
+    "Admob_Settings": {
+        "TEST_MODE": true,
+        "APP_ID": "ca-app-pub-5501872138464418~3891403695",
+        "BANNER_ID": "ca-app-pub-5501872138464418/5012913672",
+        "INTERSTITIAL_ID": "ca-app-pub-5501872138464418/6134034012",
+        "NATIVE1_ID": "ca-app-pub-5501872138464418/6321561266",
+        "NATIVE2_ID": "ca-app-pub-5501872138464418/4661826788"
+    },
+    "CPA": [
+        {
+            "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+            "Url": "https://www.google.com"
+        },
+        {
+            "Image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlZTM0NTA4MTZkYmIyNjJhYWMzYjM2OWMwYmEzNWRmNDM3ODAxZiZjdD1n/TI348Tcvl6yA9m1qnd/giphy.gif",
+            "Url": "https://www.facebook.com/"
+        }
+    ]
 }
