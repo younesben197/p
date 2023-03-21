@@ -32,8 +32,8 @@
     "AdTop": "OFF"
   },
   "PlatformAds": {
-    "Banner": "ADMOB",
-    "Inter": "ADMOB",
+    "Banner": "IS",
+    "Inter": "IS",
     "Native": "CPA"
   }
 }
