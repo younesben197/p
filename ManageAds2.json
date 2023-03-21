@@ -10,6 +10,7 @@
     }
   ],
   "EnableNotification": true,
+  "TEST_MODE_ADMOB": false,
   "EnabledAds": {
     "Banner": true,
     "Inter": true,
