@@ -21,12 +21,12 @@
     "IS": true
   },
   "MainAds": {
-    "AdBottom": "OFF",
-    "AdTop": "OFF"
+    "AdBottom": "OFF", // OFF or CPA
+    "AdTop": "OFF"  // OFF or ADMOB or CPA
   },
   "PlatformAds": {
-    "Banner": "Admob",
-    "Inter": "Admob",
+    "Banner": "Admob", // Admob or IronSource
+    "Inter": "Admob", // Admob or IronSource
     "Native": "CPA"
   }
 }
