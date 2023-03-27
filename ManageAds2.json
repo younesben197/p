@@ -25,8 +25,8 @@
     "AdTop": "ADMOB"  // OFF or ADMOB or CPA
   },
   "PlatformAds": {
-    "Banner": "IronSource", // Admob or IronSource
-    "Inter": "IronSource", // Admob or IronSource
+    "Banner": "Admob", // Admob or IronSource
+    "Inter": "Admob", // Admob or IronSource
     "Native": "CPA"
   }
 }
