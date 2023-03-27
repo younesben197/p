@@ -22,7 +22,7 @@
   },
   "MainAds": {
     "AdBottom": "OFF", // OFF or CPA
-    "AdTop": "OFF"  // OFF or ADMOB or CPA
+    "AdTop": "ADMOB"  // OFF or ADMOB or CPA
   },
   "PlatformAds": {
     "Banner": "IronSource", // Admob or IronSource
