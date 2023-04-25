@@ -12,7 +12,7 @@
     }
   ],
  
-  "TEST_MODE_ADMOB": false,
+  "TEST_MODE_ADMOB": true,
   "EnabledAds": {
     "Banner": false,
     "Inter": false,
