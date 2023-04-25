@@ -14,9 +14,9 @@
  
   "TEST_MODE_ADMOB": false,
   "EnabledAds": {
-    "Banner": true,
-    "Inter": true,
-    "Native": true
+    "Banner": false,
+    "Inter": false,
+    "Native": false
   },
   "Init": {
     "Admob": false,
