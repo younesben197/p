@@ -1,6 +1,6 @@
 
 {
-  "Adblocker": "replace", // on/off/replace
+  "Adblocker": "REPLACE", // ON, OFF, REPLACE
   "GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default",
   "CPA": [
     {
@@ -24,12 +24,12 @@
     "IS": true
   },
   "MainAds": {
-    "AdBottom": "OFF", // OFF or CPA
-    "AdTop": "ADMOB"  // OFF or ADMOB or CPA
+    "AdBottom": "OFF", // OFF, CPA
+    "AdTop": "ADMOB"  // OFF, ADMOB, CPA
   },
   "PlatformAds": {
-    "Banner": "Admob", // Admob or IronSource
-    "Inter": "Admob", // Admob or IronSource
+    "Banner": "Admob", // Admob, IronSource
+    "Inter": "Admob", // Admob, IronSource
     "Native": "CPA"
   }
 }
