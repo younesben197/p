@@ -1,7 +1,12 @@
 
 {
-  "Adblocker": "REPLACE", // ON, OFF, REPLACE
-  "GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default",
+  "MainSettings": {
+    "Adblocker": "REPLACE", // ON, OFF, REPLACE
+    "TimeBetweenAds": 2,
+    "GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default",
+    "TEST_MODE_ADMOB": true,
+  }
+  
   "CPA": [
     {
       "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
@@ -12,8 +17,7 @@
       "Url": "https://www.facebook.com/"
     }
   ],
- 
-  "TEST_MODE_ADMOB": true,
+  
   "EnabledAds": {
     "Banner": true,
     "Inter": true,
@@ -31,5 +35,8 @@
     "Banner": "IronSource", // Admob, IronSource
     "Inter": "Admob", // Admob, IronSource
     "Native": "CPA"
+  }
+  "com.xdideveloper.webview2020": {
+       Adblocker: "OFF", // ON, OFF, REPLACE
   }
 }
