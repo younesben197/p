@@ -37,6 +37,6 @@
     "Native": "CPA"
   },
   "com.xdideveloper.webview2020": {
-       Adblocker: "OFF", // ON, OFF, REPLACE
+       "Adblocker": "OFF", // ON, OFF, REPLACE
   }
 }
