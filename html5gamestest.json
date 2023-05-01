@@ -1,11 +1,10 @@
 {
   "MainSettings": {
-    "Adblocker": "REPLACE", // ON, OFF, REPLACE
+    "Adblocker": "REPLACE",  // ON, OFF, REPLACE
     "TimeBetweenAds": 2,
     "GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default",
     "TEST_MODE_ADMOB": true
   },
-  
   "CPA": [
     {
       "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
@@ -16,7 +15,6 @@
       "Url": "https://www.facebook.com/"
     }
   ],
-  
   "EnabledAds": {
     "Banner": true,
     "Inter": true,
@@ -37,7 +35,20 @@
   },
   "com.xdideveloper.webview2020": {
     "MainSettings": {
-       "Adblocker": "OFF" // ON, OFF, REPLACE
-    }
-  } 
+      "Adblocker": "OFF" // ON, OFF, REPLACE
+    },
+    "EnabledAds": {
+      "Native": true
+    },
+    "MainAds": {
+      "AdBottom": "OFF",
+      "AdTop": "CPA"
+    },
+    "CPA": [
+      {
+        "Image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlZTM0NTA4MTZkYmIyNjJhYWMzYjM2OWMwYmEzNWRmNDM3ODAxZiZjdD1n/TI348Tcvl6yA9m1qnd/giphy.gif",
+        "Url": "https://www.facebook.com/"
+      }
+    ]
+  }
 }
