@@ -4,7 +4,7 @@
     "TimeBetweenAds": 2,
     "GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default",
     "TEST_MODE_ADMOB": true,
-    "Init": "IronSource" //Admob, IronSource
+    "InitAds": "IronSource" //Admob, IronSource
   },
   "EnabledAds": {
     "Banner": true,
