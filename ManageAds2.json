@@ -14,7 +14,7 @@
   "EnabledAds": {
     "Banner": true,
     "Inter": true,
-    "Native": true
+    "Native": false
   },
   "Init": {
     "Admob": false,
@@ -22,7 +22,7 @@
   },
   "MainAds": {
     "AdBottom": "OFF", // OFF or CPA
-    "AdTop": "ADMOB"  // OFF or ADMOB or CPA
+    "AdTop": "OFF"  // OFF or ADMOB or CPA
   },
   "PlatformAds": {
     "Banner": "Admob", // Admob or IronSource
