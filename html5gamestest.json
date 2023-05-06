@@ -3,7 +3,7 @@
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE
     "TimeBetweenAds": 2,
     //"GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default",
-    "GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/82c9d9ae7f6d4ca6b00b36025870d17a/index.html",
+    "GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/213c85f6f573481382433d3cff68af6e/index.html",
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource" //Admob, IronSource
   },
