@@ -4,7 +4,8 @@
     "TimeBetweenAds": 2,
     //"GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default",
     //"GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/4b33e25253ed4e89815db2159015ae8d/index.html",
-    "GAME_URL": "https://html5.gamedistribution.com/2651a52596c64093b0309ff166d13a6f/"
+    //"GAME_URL": "https://html5.gamedistribution.com/2651a52596c64093b0309ff166d13a6f/"
+    "GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/ac315891cc6e4c738744eb8071c016a4/index.html"
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource" //Admob, IronSource
   },
