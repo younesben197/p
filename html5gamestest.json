@@ -33,7 +33,7 @@
   
   "com.xdideveloper.webview2020": {
     "MainSettings": {
-      "AdBlocker": "ON" // ON, OFF, REPLACE
+      "AdBlocker": "REPLACE" // ON, OFF, REPLACE
     }
   }
 }
