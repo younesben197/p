@@ -12,8 +12,8 @@
     "GAME_URL": "https://play.gamepix.com/15-puzzle-collect-numbers/embed"
   },
   "EnabledAds": {
-    "Banner": true,
-    "Inter": true,
+    "Banner": false,
+    "Inter": false,
     "Native": false
   },
   "PlatformAds": {
