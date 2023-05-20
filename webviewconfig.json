@@ -2,7 +2,7 @@
   "MainSettings": {
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE
     "TimeBetweenAds": 2,
-    "TEST_MODE_ADMOB": true,
+    "TEST_MODE_ADMOB": false,
     "InitAds": "IronSource", //Admob, IronSource
     "GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/82c9d9ae7f6d4ca6b00b36025870d17a/index.html"
   },
