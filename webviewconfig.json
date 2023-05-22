@@ -12,7 +12,7 @@
     "Native": true
   },
   "PlatformAds": {
-    "Banner": "Admob", // Admob, IronSource
+    "Banner": "IronSource", // Admob, IronSource
     "Inter": "IronSource" // Admob, IronSource
   },
   "CustomAds": [
