@@ -32,8 +32,8 @@
     "AdTop": "OFF"
   },
   "PlatformAds": {
-    "Banner": "Admob",
-    "Inter": "Admob",
+    "Banner": "IronSource",
+    "Inter": "IronSource",
     "Native": "CPA"
   }
 }
