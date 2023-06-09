@@ -2,44 +2,30 @@
   "MainSettings": {
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE
     "TimeBetweenAds": 2,
+    "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource", //Admob, IronSource
-    //"GAME_URL": "https://html5.gamemonetize.co/7si49vi5c3s8i2vaxg1ytmqk17tmpn3o/?key=y8&value=default"
-    //"GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/4b33e25253ed4e89815db2159015ae8d/index.html"
-    //"GAME_URL": "https://html5.gamedistribution.com/2651a52596c64093b0309ff166d13a6f/"
-    //"GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/ac315891cc6e4c738744eb8071c016a4/index.html"
-    //"GAME_URL": "https://wanted5games.com/games/html5/match-candy-base-new-en-s-iga-cloud/index.html"
-    //"GAME_URL": "https://play.gamepix.com/15-puzzle-collect-numbers/embed"
-    //"GAME_URL": "https://www.puzzlegame.com/games/Save-The-Doge/index.html?puzzlegame"
-    //"GAME_URL": "https://www.yad.com/games/Count-Masters/index.html?puzzlegame"
-    //"GAME_URL": "https://www.cargames.com/games/Elastic-Car/index.html?puzzlegame" 
-    //"GAME_URL": "https://www.yad.com/games/Love-Pin-3d/index.html?puzzlegame"
-    "GAME_URL": "https://html5.gamedistribution.com/rvvASMiM/82c9d9ae7f6d4ca6b00b36025870d17a/index.html"
+    "TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/82c9d9ae7f6d4ca6b00b36025870d17a/index.html"
   },
   "EnabledAds": {
-    "Banner": false,
-    "Inter": false,
-    "Native": false
+    "Banner": true,
+    "Inter": true,
+    "Native": true
   },
   "PlatformAds": {
-    "Banner": "IronSource", // Admob, IronSource
-    "Inter": "Admob" // Admob, IronSource
+    "Banner": "AppLovin", // Admob, IronSource, AppLovin
+    "Inter": "AppLovin" // Admob, IronSource, AppLovin
   },
   "CustomAds": [
     {
       "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-      "Url": "https://www.google.com"
+      "Url": "https://www.google.com",
+      "Status": false
     },
     {
       "Image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlZTM0NTA4MTZkYmIyNjJhYWMzYjM2OWMwYmEzNWRmNDM3ODAxZiZjdD1n/TI348Tcvl6yA9m1qnd/giphy.gif",
       "Url": "https://www.facebook.com/",
       "Status": false
     }
-  ],
-  
-  "com.xdideveloper.webview2020": {
-    "MainSettings": {
-      "AdBlocker": "REPLACE" // ON, OFF, REPLACE
-    }
-  }
+  ]
 }
