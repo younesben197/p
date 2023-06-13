@@ -13,8 +13,8 @@
     "Native": true
   },
   "PlatformAds": {
-    "Banner": "AppLovin", // Admob, IronSource, AppLovin
-    "Inter": "AppLovin" // Admob, IronSource, AppLovin
+    "Banner": "IronSource", // Admob, IronSource, AppLovin
+    "Inter": "IronSource" // Admob, IronSource, AppLovin
   },
   "CustomAds": [
     {
