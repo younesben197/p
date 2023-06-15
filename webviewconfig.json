@@ -14,7 +14,7 @@
   },
   "PlatformAds": {
     "Banner": "AppLovin", // Admob, IronSource, AppLovin
-    "Inter": "AppLovin" // Admob, IronSource, AppLovin
+    "Inter": "IronSource" // Admob, IronSource, AppLovin
   },
   "CustomAds": [
     {
