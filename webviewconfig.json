@@ -27,12 +27,6 @@
       "Url": "https://www.facebook.com/",
       "Status": false
     }
-  ],
-  "com.xdideveloper.bubblefall": {
-    "PlatformAds": {
-      "Banner": "AppLovin", // Admob, IronSource, AppLovin
-      "Inter": "AppLovin" // Admob, IronSource, AppLovin
-    }
-  }
+  ]
   
 }
