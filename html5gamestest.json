@@ -5,7 +5,7 @@
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource", //Admob, IronSource
-    "TEST_GAME": "https://html5.gamemonetize.co/2mb4bxmkp1l8xg3j6ebc58w1n960rc99/"
+    "TEST_GAME": "https://www.puzzlegame.com/games/Troll-Thief-Stickman-Puzzle/index.html?puzzlegame"
   },
   "EnabledAds": {
     "Banner": true,
