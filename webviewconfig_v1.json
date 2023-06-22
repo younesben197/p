@@ -27,10 +27,5 @@
             "Url": "https://www.facebook.com/",
             "Status": false
         }
-    ],
-    "com.xdideveloper.fashionsuperstar": {
-         "MainSettings": {
-         "TimeBetweenAds": 0
-       }
-    }
+    ]
 }
