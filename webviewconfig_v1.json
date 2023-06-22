@@ -30,7 +30,7 @@
     ],
     "com.xdideveloper.fashionsuperstar": {
          "MainSettings": {
-         "TimeBetweenAds": 0.1
+         "TimeBetweenAds": 0
        }
     }
 }
