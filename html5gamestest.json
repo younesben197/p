@@ -5,7 +5,7 @@
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource", //Admob, IronSource
-    "TEST_GAME": "https://xdidevelopergames.blogspot.com/p/angry-birds.html" 
+    "TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/6c1f41fab8014fdbbd81dcee9ddbbc80/index.html" 
   },
   "EnabledAds": {
     "Banner": true,
