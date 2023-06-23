@@ -5,7 +5,7 @@
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource", //Admob, IronSource
-    "TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/7c3957999e85405bba3b4a25f2a15529/index.html" 
+    "TEST_GAME": "https://juegos.juegosipo.com/super-stickman-hook/" 
   },
   "EnabledAds": {
     "Banner": true,
