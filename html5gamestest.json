@@ -5,7 +5,7 @@
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource", //Admob, IronSource
-    "TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/6c1f41fab8014fdbbd81dcee9ddbbc80/index.html" 
+    "TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/49b68796bc554ba6b2eb5c73b3993c97/index.html" 
   },
   "EnabledAds": {
     "Banner": true,
