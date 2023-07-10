@@ -8,7 +8,7 @@
     "TEST_GAME": "https://html5.gamemonetize.co/ly5no229118o0cw5ixv6hmnomhny809o/" 
   },
   "EnabledAds": {
-    "Banner": false,
+    "Banner": false, 
     "Inter": false,
     "Native": true
   },
