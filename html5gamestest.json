@@ -5,7 +5,7 @@
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     "InitAds": "IronSource", //Admob, IronSource
-    "TEST_GAME": "https://html5.gamemonetize.co/k8if9upb0h9k96zqoys4yrrbvw9nfxg6/" 
+    "TEST_GAME": "https://html5.gamemonetize.co/ly5no229118o0cw5ixv6hmnomhny809o/" 
   },
   "EnabledAds": {
     "Banner": true,
