@@ -1,7 +1,7 @@
 {
     "MainSettings": {
         "AdBlocker": "REPLACE", // ON, OFF, REPLACE
-        "TimeBetweenAds": 0.5,
+        "TimeBetweenAds": 0.9,
         "TrafficProtection": false,
         "TEST_MODE_ADMOB": true,
         "InitAds": "IronSource", //Admob, IronSource
