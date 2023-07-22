@@ -13,7 +13,7 @@
     "Native": true
   },
   "PlatformAds": {
-    "Banner": "AppLovin", // Admob, IronSource, AppLovin
+    "Banner": "UnityAds", // Admob, IronSource, AppLovin, UnityAds
     "Inter": "AppLovin" // Admob, IronSource, AppLovin
   },
   "CustomAds": [
