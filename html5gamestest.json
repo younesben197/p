@@ -13,8 +13,8 @@
     "Native": true
   },
   "PlatformAds": {
-    "Banner": "Vungle", // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
-    "Inter": "Vungle" // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
+    "Banner": "UnityAds", // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
+    "Inter": "UnityAds" // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
   },
   "CustomAds": [
     {
