@@ -7,11 +7,6 @@
     "InitAds": "IronSource", //Admob, IronSource
     "TEST_GAME": "https://html5.gamemonetize.co/w6reafq5j9uxyi8hsza6fzc6a1eu8z1c/" 
   },
-  "EnabledAds": {
-    "Banner": false, 
-    "Inter": false,
-    "Native": true
-  },
   "PlatformAds": {
     "Banner": "IronSource", // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
     "Inter": "IronSource" // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
