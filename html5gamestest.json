@@ -8,8 +8,8 @@
     "TEST_GAME": "https://html5.gamemonetize.co/w6reafq5j9uxyi8hsza6fzc6a1eu8z1c/" 
   },
   "PlatformAds": {
-    "Banner": "IronSource", // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
-    "Inter": "IronSource" // OFF, Admob, IronSource, AppLovin, UnityAds, Vungle
+    "Banner": "Fan", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Vungle
+    "Inter": "Fan" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Vungle
   },
   "CustomAds": [
     {
