@@ -1,10 +1,9 @@
 {
   "MainSettings": {
-    "AdBlocker": "REPLACE",  // ON, OFF, REPLACE
+    "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
     "TimeBetweenAds": 1,
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
-    "InitAds": "IronSource", //Admob, IronSource
     "TEST_GAME": "https://html5.gamemonetize.co/w6reafq5j9uxyi8hsza6fzc6a1eu8z1c/" 
   },
   "PlatformAds": {
