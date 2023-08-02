@@ -11,6 +11,7 @@
     "Inter": "Fan" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Vungle, Yodo1
   },
   "Announcement": {
+    "PopupEnabled": true,
     "PopupSkippable": true,
     "PopupDownloadButtonText": "Download Now",
     "PopupTitle": "Skibidi Toilet",
