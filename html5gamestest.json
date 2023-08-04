@@ -7,8 +7,8 @@
     "TEST_GAME": "https://html5.gamemonetize.co/w6reafq5j9uxyi8hsza6fzc6a1eu8z1c/" 
   },
   "PlatformAds": {
-    "IronSource": "Yodo1", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Vungle, Yodo1
-    "IronSource": "Yodo1" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Vungle, Yodo1
+    "Banner": "Yodo1", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
+    "Inter": "Yodo1" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
   },
   "Announcement": {
     "PopupEnabled": true,
