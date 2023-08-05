@@ -7,11 +7,11 @@
     "TEST_GAME": "https://html5.gamemonetize.co/w6reafq5j9uxyi8hsza6fzc6a1eu8z1c/" 
   },
   "PlatformAds": {
-    "Banner": "IronSource", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
-    "Inter": "IronSource" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
+    "Banner": "AppLovin", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
+    "Inter": "AppLovin" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
   },
   "Announcement": {
-    "PopupEnabled": true,
+    "PopupEnabled": false,
     "PopupSkippable": true,
     "PopupShowCount": 5, // 0 = Inifinte
     "PopupDownloadButtonText": "Download Now",
