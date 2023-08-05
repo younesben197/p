@@ -11,7 +11,7 @@
     "Inter": "UnityAds" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
   },
   "Announcement": {
-    "PopupEnabled": false,
+    "PopupEnabled": false, 
     "PopupSkippable": true,
     "PopupShowCount": 5, // 0 = Inifinte
     "PopupDownloadButtonText": "Download Now",
