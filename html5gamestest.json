@@ -4,7 +4,7 @@
     "TimeBetweenAds": 1,
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
-    "TEST_GAME": "https://html5.gamemonetize.co/0f6jwzfuj7eszk74ow8lkutzu53zgnqs/" 
+    "TEST_GAME": "https://html5.gamemonetize.co/ozrihsbvi9tirbdb9cnyu7rks1ydj8hc/" 
   },
   "PlatformAds": {
     "Banner": "AppLovin", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
