@@ -12,13 +12,13 @@
     "Inter": "AppLovin" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
   },
   "Announcement": {
-    "PopupEnabled": false, 
+    "PopupEnabled": true, 
     "PopupSkippable": true,
     "PopupShowCount": 5, // 0 = Inifinte
     "PopupDownloadButtonText": "Download Now",
     "PopupTitle": "Skibidi Toilet",
     "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-    "PopupGameUrl": "market://details?id=com.skibidi.toilet.yes.yes" //market://details?id=
+    "PopupGameUrl": "com.skibidi.toilet.yes.yes" //market://details?id=
   }, 
   "CustomAds": [
     {
