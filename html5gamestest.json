@@ -4,8 +4,8 @@
     "TimeBetweenAds": 1,
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
-    "TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/31544d9cabe3430895b8594756a6fd31/index.html" //fc2616599f4b4d6a8a1c0045295ffbde
-    //"TEST_GAME": "https://html5.gamemonetize.co/5lfmgqvy6vcu9j5kk5mzq52v9frt04vu/"
+    //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/31544d9cabe3430895b8594756a6fd31/index.html" //fc2616599f4b4d6a8a1c0045295ffbde
+    "TEST_GAME": "https://html5.gamemonetize.co/z4np5bpzblg8nj0rjpw9u707kohsto3t/"
   },
   "PlatformAds": {
     "Banner": "AppLovin", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
