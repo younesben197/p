@@ -1,7 +1,7 @@
 {
   "MainSettings": {
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
-    "TimeBetweenAds": 1,
+    "TimeBetweenAds": 1.5,
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/31544d9cabe3430895b8594756a6fd31/index.html", //fc2616599f4b4d6a8a1c0045295ffbde
