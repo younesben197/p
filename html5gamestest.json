@@ -5,7 +5,7 @@
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/31544d9cabe3430895b8594756a6fd31/index.html" //fc2616599f4b4d6a8a1c0045295ffbde
-    "TEST_GAME": "https://html5.gamemonetize.co/z4np5bpzblg8nj0rjpw9u707kohsto3t/"
+    "TEST_GAME": "https://html5.gamemonetize.co/k9fvf36zkdqije2b0nl7673xou2mxesb/"
   },
   "PlatformAds": {
     "Banner": "AppLovin", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
