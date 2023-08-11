@@ -8,8 +8,8 @@
     "AdRandomly_Max": 2.0
   },
   "PlatformAds": {
-    "Banner": "AppLovin", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
-    "Inter": "AppLovin" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
+    "Banner": "IronSource", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
+    "Inter": "IronSource" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
   },
   "Announcement": {
     "PopupEnabled": false, 
