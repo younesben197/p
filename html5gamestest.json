@@ -11,7 +11,7 @@
   },
   "PlatformAds": {
     "Banner": "IronSource", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan 
-    "Inter": "IronSource" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
+    "AppLovin": "IronSource" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
   },
   "Announcement": {
     "PopupEnabled": true, 
