@@ -10,7 +10,7 @@
     "AdRandomly_Max": 2.0
   },
   "PlatformAds": {
-    "Banner": "IronSource", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
+    "Banner": "IronSource", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan 
     "Inter": "IronSource" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan
   },
   "Announcement": {
