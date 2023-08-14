@@ -14,7 +14,7 @@
     "Inter": "Yodo1" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Appodeal, Yodo1 
   },
   "Announcement": {
-    "PopupEnabled": true, 
+    "PopupEnabled": false, 
     "PopupSkippable": true,
     "PopupShowCount": 5, // 0 = Inifinte
     "PopupDownloadButtonText": "Download Now",
