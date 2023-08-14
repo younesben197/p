@@ -11,7 +11,7 @@
   },
   "PlatformAds": {
     "Banner": "Yodo1", // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Appodeal, Yodo1
-    "Inter": "Yodo1" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Appodeal, Yodo1
+    "Inter": "Yodo1" // OFF, Admob, IronSource, AppLovin, UnityAds, Fan, Appodeal, Yodo1 
   },
   "Announcement": {
     "PopupEnabled": true, 
