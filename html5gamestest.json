@@ -10,8 +10,8 @@
     "AdRandomly_Max": 2.0
   },
   "PlatformAds": {
-    "Banner": "Yodo1", // OFF, IronSource, UnityAds, Fan, Appodeal
-    "Inter": "Yodo1" // OFF, IronSource, UnityAds, Fan, Appodeal 
+    "Banner": "Appodeal", // OFF, IronSource, UnityAds, Fan, Appodeal
+    "Inter": "Appodeal" // OFF, IronSource, UnityAds, Fan, Appodeal 
   },
   "Announcement": {
     "PopupEnabled": false, 
