@@ -1,7 +1,7 @@
 {
   "MainSettings": {
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
-    "TimeBetweenAds": 1.5,
+    "TimeBetweenAds": 2.0,
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
     "AdRandomly_Min": 1.3,
