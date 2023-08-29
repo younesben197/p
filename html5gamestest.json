@@ -4,6 +4,7 @@
     "TimeBetweenAds": 1.5,
     "TrafficProtection": false,
     "TEST_MODE_ADMOB": true,
+    "HomeEnabled": false,
     //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/31544d9cabe3430895b8594756a6fd31/index.html", //fc2616599f4b4d6a8a1c0045295ffbde
     "TEST_GAME": "https://html5.gamemonetize.co/k9fvf36zkdqije2b0nl7673xou2mxesb/",
     "AdRandomly_Min": 1.3,
