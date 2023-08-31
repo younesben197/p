@@ -6,14 +6,14 @@
     "TEST_MODE_ADMOB": true,
     "HomeEnabled": true,
     "ShowInterBeforePlay": true,
-	//"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/31544d9cabe3430895b8594756a6fd31/index.html", //fc2616599f4b4d6a8a1c0045295ffbde
+     //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/31544d9cabe3430895b8594756a6fd31/index.html", //fc2616599f4b4d6a8a1c0045295ffbde
     "TEST_GAME": "https://html5.gamemonetize.co/k9fvf36zkdqije2b0nl7673xou2mxesb/",
     "AdRandomly_Min": 1.3,
     "AdRandomly_Max": 2.0
   },
   "PlatformAds": {
-    "Banner": "Yodo1", // OFF, IronSource, Yodo1
-    "Inter": "Yodo1" // OFF, IronSource, Yodo1 
+    "Banner": "IronSource", // OFF, IronSource, Yodo1
+    "Inter": "IronSource" // OFF, IronSource, Yodo1 
   },
   "Announcement": {
     "PopupEnabled": false, 
