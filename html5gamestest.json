@@ -3,8 +3,7 @@
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
     "TimeBetweenAds": 1.6,
     "TrafficProtection": false,
-    "TEST_MODE_ADMOB": true,
-    "HomeEnabled": true,
+    "HomeEnabled": false,
     "ShowInterBeforePlay": true,
     //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/4083ecb5efb64504a7904361c7def2ab/index.html", //fc2616599f4b4d6a8a1c0045295ffbde
     "TEST_GAME": "https://html5.gamemonetize.co/ddj3po8z23tfxxfqi2z447ngx1jk41ai/",
@@ -18,7 +17,7 @@
   "Announcement": {
     "PopupEnabled": true, 
     "PopupSkippable": true,
-    "PopupShowCount": 5, // 0 = Inifinte
+    "PopupShowCount": 2, // 0 = Inifinte
     "PopupDownloadButtonText": "Download Now",
     "PopupTitle": "Skibidi Toilet",
     "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
