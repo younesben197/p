@@ -12,7 +12,7 @@
     "AdRandomly_Max": 2.0
   }, 
   "PlatformAds": {
-    "Banner": "OFF", // OFF, IronSource, Yodo1
+    "Banner": "OFF", // OFF, IronSource, Appodeal
     "Inter": "Appodeal" // OFF, IronSource, Appodeal 
   },
   "Announcement": {
