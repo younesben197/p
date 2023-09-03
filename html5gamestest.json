@@ -13,7 +13,7 @@
   }, 
   "PlatformAds": {
     "Banner": "OFF", // OFF, IronSource, Yodo1
-    "Inter": "IronSource" // OFF, IronSource, Yodo1 
+    "Inter": "Appodeal" // OFF, IronSource, Appodeal 
   },
   "Announcement": {
     "PopupEnabled": true, 
