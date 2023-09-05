@@ -13,7 +13,7 @@
     "Inter": "IronSource" // OFF, IronSource, Yodo1 
   },
   "Announcement": {
-    "PopupEnabled": true,
+    "PopupEnabled": false,
     "PopupSkippable": true,
     "PopupShowCount": 2, // 0 = Inifinte
     "PopupDownloadButtonText": "Download Now",
