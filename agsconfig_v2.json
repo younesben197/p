@@ -1,0 +1,42 @@
+{
+  "MainSettings": {
+    "AdBlocker": "REPLACE", // ON, OFF, REPLACE, PLUS
+    "TimeBetweenAds": 0.3,
+    "TrafficProtection": false,
+    "HomeEnabled": false,
+    "ShowInterBeforePlay": true,
+    "AdRandomly_Min": 1.3,
+    "AdRandomly_Max": 2.0
+  },
+  "PlatformAds": {
+    "Banner": "OFF", // OFF, IronSource, Yodo1
+    "Inter": "IronSource" // OFF, IronSource, Yodo1 
+  },
+  "Announcement": {
+    "PopupEnabled": true,
+    "PopupSkippable": true,
+    "PopupShowCount": 2, // 0 = Inifinte
+    "PopupDownloadButtonText": "Download Now",
+    "PopupTitle": "Skibidi Toilet",
+    "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "PopupGameUrl": "com.wavez.skibiditoilet.johnpork.prank.fakecall" //market://details?id=
+  },
+  "CustomAds": [
+    {
+      "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "Url": "https://www.google.com",
+      "Status": false
+    },
+    {
+      "Image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlZTM0NTA4MTZkYmIyNjJhYWMzYjM2OWMwYmEzNWRmNDM3ODAxZiZjdD1n/TI348Tcvl6yA9m1qnd/giphy.gif",
+      "Url": "https://www.facebook.com/",
+      "Status": false
+    }
+  ],
+  "com.xdideveloper.bubblefall": {
+    //"LatestVersion": "4.9",
+    "MainSettings": {
+      "TimeBetweenAds": 1.0
+    }
+  }
+}
