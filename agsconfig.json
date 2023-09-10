@@ -10,7 +10,7 @@
     "AdRandomly_Max": 2.0
   },
   "PlatformAds": {
-    "Banner": "Yodo1", // OFF, IronSource, Yodo1
+    "Banner": "IronSource", // OFF, IronSource, Yodo1
     "Inter": "IronSource" // OFF, IronSource, Yodo1 
   },
   "Announcement": {
