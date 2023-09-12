@@ -14,7 +14,7 @@
   }, 
   "PlatformAds": {
     "Banner": "OFF", // OFF, IronSource, Yodo1
-    "Inter": "Yodo1" // OFF, IronSource, Yodo1 
+    "Inter": "CAS1" // OFF, IronSource, Yodo1 
   },
   "Announcement": {
     "PopupEnabled": true, 
