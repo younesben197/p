@@ -13,8 +13,8 @@
     "AdRandomly_Max": 2.0
   }, 
   "PlatformAds": {
-    "Banner": "OFF", // OFF, IronSource, Yodo1
-    "Inter": "Cas1" // OFF, IronSource, Yodo1 
+    "Banner": "Cas1", // OFF, IronSource, Yodo1, Cas1
+    "Inter": "Cas1" // OFF, IronSource, Yodo1, Cas1
   },
   "Announcement": {
     "PopupEnabled": true, 
