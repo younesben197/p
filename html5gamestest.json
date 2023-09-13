@@ -17,7 +17,7 @@
     "Inter": "Cas1" // OFF, IronSource, Yodo1, Cas1
   },
   "Announcement": {
-    "PopupEnabled": true, 
+    "PopupEnabled": false, 
     "PopupSkippable": true,
     "PopupShowCount": 2, // 0 = Inifinte
     "PopupDownloadButtonText": "Download Now",
