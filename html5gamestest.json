@@ -1,7 +1,7 @@
 {
   "MainSettings": {
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
-    "TimeBetweenAds": 0.5,
+    "TimeBetweenAds": 0.4,
     "TrafficProtection": false,
     "HomeEnabled": false,
     "ShowInterBeforePlay": true,
@@ -36,8 +36,11 @@
       "Url": "https://www.facebook.com/",
       "Status": false
     }
-  ]
-  //,"com.xdideveloper.bubblefall": {
-  //  "LatestVersion": "4.9"
-  //}
+  ],
+  "com.xdideveloper.bubblefall": {
+    //"LatestVersion": "4.9"
+     "MainSettings": {
+        "TimeBetweenAds": 1.5
+     }
+  }
 }
