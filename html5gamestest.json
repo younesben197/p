@@ -13,7 +13,7 @@
     "AdRandomly_Max": 2.0
   }, 
   "PlatformAds": {
-    "Banner": "Cas1", // OFF, IronSource, Fan, Cas1
+    "Banner": "IronSource", // OFF, IronSource, Fan, Cas1
     "Inter": "Cas1" // OFF, IronSource, Fan, Cas1
   },
   "Announcement": {
