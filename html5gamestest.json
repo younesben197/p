@@ -13,8 +13,8 @@
     "AdRandomly_Max": 2.0
   }, 
   "PlatformAds": {
-    "Banner": "IronSource", // OFF, IronSource, Fan, Cas1
-    "Inter": "Cas1" // OFF, IronSource, Fan, Cas1
+    "Banner": "Cas1", // OFF, IronSource, Fan, Cas1
+    "Inter": "IronSource" // OFF, IronSource, Fan, Cas1
   },
   "Announcement": {
     "PopupEnabled": false, 
