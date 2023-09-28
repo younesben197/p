@@ -4,6 +4,7 @@
     "TimeBetweenAds": 0.4,
     "TrafficProtection": false,
     "HomeEnabled": false,
+    "isChildDirected": false,
     "ShowInterBeforePlay": true,
     "TEST_GAME": "https://html5.gamemonetize.co/w2ud1nav6xzh20jjz0mb8zhd60hcgs97/",
     //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/4083ecb5efb64504a7904361c7def2ab/index.html",
