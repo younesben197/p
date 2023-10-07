@@ -1,6 +1,6 @@
 {
   "MainSettings": {
-    "AdBlocker": "PLUS",  // ON, OFF, REPLACE, PLUS
+    "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
     "TimeBetweenAds": 0.4,
     "TrafficProtection": false,
     "HomeEnabled": false,
