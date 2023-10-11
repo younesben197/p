@@ -6,7 +6,7 @@
     "HomeEnabled": false,
     "isChildDirected": false,
     "ShowInterBeforePlay": true,
-    "RepLog": false,
+    "RepLog": true,
     "AdRandomly_Min": 1.3,
     "AdRandomly_Max": 2.0
   },
