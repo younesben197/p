@@ -1,0 +1,45 @@
+{
+  "MainSettings": {
+    "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
+    "TimeBetweenAds": 0.4,
+    "TrafficProtection": false,
+    "HomeEnabled": false,
+    "isChildDirected": false,
+    "ShowInterBeforePlay": true,
+    "TEST_GAME": "https://lagged.com/games/play2/spill-wine12/",
+    //"TEST_GAME": "https://html5.gamedistribution.com/rvvASMiM/4083ecb5efb64504a7904361c7def2ab/index.html",
+    "AdRandomly_Min": 1.3,
+    "AdRandomly_Max": 2.0
+  },
+  "PlatformAds": {
+    "Inter": "Cas1", // OFF, IronSource, Fan, Applovin, Cas1
+    "Banner": "OFF" // OFF, IronSource, Fan, Applovin, Cas1
+  },
+  "Announcement": {
+    "PopupEnabled": false, 
+    "PopupSkippable": true,
+    "PopupShowCount": 2, // 0 = Inifinte
+    "PopupDownloadButtonText": "Download Now",
+    "PopupTitle": "Skibidi Toilet",
+    "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "PopupGameUrl": "com.wavez.skibiditoilet.johnpork.prank.fakecall" //market://details?id=
+  }, 
+  "CustomAds": [
+    {
+      "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "Url": "https://www.google.com",
+      "Status": false
+    },
+    {
+      "Image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRlZTM0NTA4MTZkYmIyNjJhYWMzYjM2OWMwYmEzNWRmNDM3ODAxZiZjdD1n/TI348Tcvl6yA9m1qnd/giphy.gif",
+      "Url": "https://www.facebook.com/",
+      "Status": false
+    }
+  ],
+  "com.xdideveloper.bubblefall": {
+    //"LatestVersion": "4.9"
+     "MainSettings": {
+        "TimeBetweenAds": 1.5
+     }
+  }
+}
