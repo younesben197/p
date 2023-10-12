@@ -12,7 +12,6 @@
   },
   "PlatformAds": {
     "Inter": "Cas1", // OFF, IronSource, Fan, Applovin, Cas1
-    "Banner": "OFF" // OFF, IronSource, Fan, Applovin, Cas1
   },
   "Announcement": {
     "PopupEnabled": false, 
