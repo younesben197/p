@@ -14,10 +14,10 @@
     "Inter": "Cas1" // OFF, IronSource, Fan, Applovin, Cas1
   },
   "Announcement": {
-    "PopupEnabled": true, 
+    "PopupEnabled": false, 
     "PopupSkippable": true,
     "PopupShowCount": 2, // 0 = Inifinte
-    "AfterOpeningAppCount": 0,
+    "AfterOpeningAppCount": 3,
     "PopupDownloadButtonText": "Download Now",
     "PopupTitle": "Skibidi Toilet",
     "PopupSubTitle": "Good news! We released a new game Try it Now!",
