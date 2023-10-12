@@ -11,7 +11,7 @@
     "AdRandomly_Max": 2.0
   },
   "PlatformAds": {
-    "Inter": "Cas1", // OFF, IronSource, Fan, Applovin, Cas1
+    "Inter": "Cas1" // OFF, IronSource, Fan, Applovin, Cas1
   },
   "Announcement": {
     "PopupEnabled": false, 
