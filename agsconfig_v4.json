@@ -14,13 +14,13 @@
     "Inter": "Cas1" // OFF, IronSource, Fan, Applovin, Cas1
   },
   "Announcement": {
-    "PopupEnabled": false, 
+    "PopupEnabled": true, 
     "PopupSkippable": true,
     "PopupShowCount": 2, // 0 = Inifinte
-    "AfterOpeningAppCount": 3,
+    "AfterOpeningAppCount": 0,
     "PopupDownloadButtonText": "Download Now",
     "PopupTitle": "Skibidi Toilet",
-    "PopupSubTitle": "Good news! We released a new game!",
+    "PopupSubTitle": "Good news! We released a new game Try it Now!",
     "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
     "PopupGameUrl": "com.wavez.skibiditoilet.johnpork.prank.fakecall" //market://details?id=
   }, 
