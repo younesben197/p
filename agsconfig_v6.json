@@ -11,7 +11,7 @@
     "AdRandomly_Max": 2.0
   },
   "AdSettings": {
-    "AdNetworkName": "IronSource", IronSource, Fan, Applovin, Cas1
+    "AdNetworkName": "Cas1", IronSource, Fan, Applovin, Cas1
     "EnabledInterstitial": true,
     "EnabledBanner": false
   },
