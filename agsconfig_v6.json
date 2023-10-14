@@ -1,7 +1,6 @@
 {
   "MainSettings": {
     "AdBlocker": "REPLACE",  // ON, OFF, REPLACE, PLUS
-    "AdNetworkName": "Cas1" // OFF, IronSource, Fan, Applovin, Cas1
     "TimeBetweenAds": 0.4,
     "TrafficProtection": false,
     "HomeEnabled": false,
@@ -10,6 +9,11 @@
     "RepLog": true,
     "AdRandomly_Min": 1.3,
     "AdRandomly_Max": 2.0
+  },
+  "AdSettings": {
+    "AdNetworkName": "Cas1", // OFF, IronSource, Fan, Applovin, Cas1
+    "EnabledInterstitial": true,
+    "EnabledBanner": false
   },
   "Announcement": {
     "PopupEnabled": false, 
