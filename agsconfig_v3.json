@@ -6,6 +6,7 @@
     "HomeEnabled": false,
     "isChildDirected": false,
     "ShowInterBeforePlay": true,
+    "RepLog": true,
     "AdRandomly_Min": 1.3,
     "AdRandomly_Max": 2.0
   }, 
@@ -17,8 +18,10 @@
     "PopupEnabled": false, 
     "PopupSkippable": true,
     "PopupShowCount": 2, // 0 = Inifinte
+    "AfterOpeningAppCount": 3,
     "PopupDownloadButtonText": "Download Now",
     "PopupTitle": "Skibidi Toilet",
+    "PopupSubTitle": "Good news! We released a new game Try it Now!",
     "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
     "PopupGameUrl": "com.wavez.skibiditoilet.johnpork.prank.fakecall" //market://details?id=
   }, 
