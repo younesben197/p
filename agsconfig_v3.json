@@ -41,10 +41,6 @@
     //"LatestVersion": "4.9"
      "MainSettings": {
         "TimeBetweenAds": 1.5
-     },
-     "PlatformAds": {
-      "Inter": "Cas1", // OFF, IronSource, Fan, Applovin, Cas1
-      "Banner": "OFF" // OFF, IronSource, Fan, Applovin, Cas1
-    }
+     }
   }
 }
