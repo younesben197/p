@@ -46,5 +46,8 @@
   },
   "com.ags.connectwires.lightlamps.lampadas": {
     "Ads_Randomly": false
+  },
+  "com.ags.blockpuzzle.woodblockpuzzle": {
+    "Ads_Randomly": false
   }
 }
