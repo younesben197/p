@@ -11,7 +11,7 @@
     "AdRandomly_Max": 2.0
   },
   "AdSettings": {
-    "AdNetworkName": "Applovin", // IronSource, Applovin
+    "AdNetworkName": "IronSource", // IronSource, Applovin
     "EnabledInterstitial": true,
     "EnabledBanner": false
   },
