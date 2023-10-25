@@ -8,7 +8,8 @@
     "ShowInterBeforePlay": true,
     "RepLog": true,
     "AdRandomly_Min": 1.3,
-    "AdRandomly_Max": 2.0
+    "AdRandomly_Max": 2.0,
+    "InjAvailable": "gamemonetiz, lagged, gamedistribution"
   },
   "AdSettings": {
     "AdNetworkName": "IronSource", // IronSource, Applovin
