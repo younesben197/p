@@ -14,7 +14,7 @@
   "AdSettings": {
     "AdNetworkName": "IronSource", // IronSource, Applovin
     "EnabledInterstitial": true,
-    "EnabledRewardAd": true,
+    "EnabledRewardedAd": true,
     "EnabledBanner": false
   },
   "Announcement": {
