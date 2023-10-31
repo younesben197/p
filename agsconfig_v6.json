@@ -48,13 +48,5 @@
   },
   "com.ags.blockpuzzle.woodblockpuzzle": {
     "Ads_Randomly": false
-  },
-  "com.homerush.drawpuzzle.drawtohome": {
-    "AdSettings": {
-    "AdNetworkName": "Applovin", // IronSource, Applovin
-    "EnabledInterstitial": true,
-    "EnabledRewardedAd": true,
-    "EnabledBanner": false
-  }
   }
 }
