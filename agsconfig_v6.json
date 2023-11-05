@@ -45,7 +45,7 @@
      "MainSettings": {
         "TimeBetweenAds": 1.5
      }
-  },
+  }, 
   "com.ags.blockpuzzle.woodblockpuzzle": {
     "Ads_Randomly": false
   }
