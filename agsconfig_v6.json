@@ -48,5 +48,18 @@
   },
   "com.ags.blockpuzzle.woodblockpuzzle": {
     "Ads_Randomly": false
+  },
+  "com.ags.matchgame.jewele.diamenty": {
+    "Announcement": {
+      "PopupEnabled": true,
+      "PopupSkippable": true,
+      "PopupShowCount": 2, // 0 = Inifinte
+      "AfterOpeningAppCount": 3,
+      "PopupDownloadButtonText": "Download Now",
+      "PopupTitle": "Skibidi Toilet",
+      "PopupSubTitle": "Good news! We released a new game Try it Now!",
+      "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+      "PopupGameUrl": "com.wavez.skibiditoilet.johnpork.prank.fakecall" //market://details?id=
+    }
   }
 }
