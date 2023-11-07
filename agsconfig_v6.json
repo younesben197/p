@@ -7,9 +7,9 @@
     "isChildDirected": false,
     "ShowInterBeforePlay": true,
     "RepLog": true,
+    "LimitAds": false,
     "AdRandomly_Min": 1.3,
-    "AdRandomly_Max": 2.0,
-    "InjAvailable": "gamemonetiz, lagged, gamedistribution"
+    "AdRandomly_Max": 2.0
   },
   "AdSettings": {
     "AdNetworkName": "IronSource", // IronSource, Applovin
@@ -43,6 +43,7 @@
   "com.xdideveloper.bubblefall": {
     //"LatestVersion": "4.9"
      "MainSettings": {
+        "LimitAds": true,
         "TimeBetweenAds": 1.5
      }
   }, 
