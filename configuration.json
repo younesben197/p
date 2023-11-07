@@ -2,7 +2,10 @@
   "MainSettings": {
     "AdBreakTime": 0.8, // 1 = 60 Seconds
     "HomeEnabled": false,
-    "LimitAds": false
+    "LimitAds": false,
+    "AdsRandomly": false,
+    "AdsRandomlyMin": 1.3,
+    "AdsRandomlyMax": 2.0
   },
   "AdSettings": {
     "AdNetworkName": "IronSource", // IronSource, Applovin
