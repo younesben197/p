@@ -1,0 +1,38 @@
+{
+  "MainSettings": {
+    "AdBreakTime": 0.8, // 1 = 60 Seconds
+    "HomeEnabled": false,
+    "LimitAds": false
+  },
+  "AdSettings": {
+    "AdNetworkName": "IronSource", // IronSource, Applovin
+    "EnabledInterstitial": true,
+    "EnabledRewardedAd": true,
+    "EnabledBanner": false
+  },
+  "Announcement": {
+    "PopupEnabled": false, 
+    "PopupSkippable": true,
+    "PopupShowCount": 2, // 0 = Inifinte
+    "AfterOpeningAppCount": 3,
+    "PopupDownloadButtonText": "Download Now",
+    "PopupTitle": "Skibidi Toilet",
+    "PopupSubTitle": "Good news! We released a new game Try it Now!",
+    "PopupImageUrl": "https://media3.giphy.com/media/uEUwUCYcpBUb93d0kZ/giphy.gif?cid=ecf05e47ghatyazusaqi6zxl84ir6d6fvzyy164sqfzk323b&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+    "PopupGameUrl": "com.wavez.skibiditoilet.johnpork.prank.fakecall" //market://details?id=
+  }, 
+  "CustomAds": [
+    {
+      "Image": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+      "Url": "https://www.google.com",
+      "Status": false
+    }
+  ],
+  "com.xdideveloper.bubblefall": {
+    //"LatestVersion": "4.9"
+     "MainSettings": {
+        "LimitAds": true,
+        "AdBreakTime": 1.5
+     }
+  }
+}
