@@ -34,7 +34,7 @@
   "com.xdideveloper.bubblefall": {
     //"LatestVersion": "4.9"
      "MainSettings": {
-        "LimitAds": true
+        "LimitAds": true 
      }
   }
 }
