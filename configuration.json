@@ -3,6 +3,7 @@
     "AdBreakTime": 1.5, // 1 = 60 Seconds
     "HomeEnabled": false,
     "LimitAds": false,
+    "InternetRequired": false,
     "AdsRandomly": false,
     "AdsRandomlyMin": 1.3,
     "AdsRandomlyMax": 2.0
