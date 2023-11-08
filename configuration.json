@@ -4,6 +4,7 @@
     "HomeEnabled": false,
     "LimitAds": false,
     "InternetRequired": false,
+    "InternetMessage": true,
     "AdsRandomly": false,
     "AdsRandomlyMin": 1.3,
     "AdsRandomlyMax": 2.0
