@@ -36,10 +36,5 @@
      "MainSettings": {
         "LimitAds": true
      }
-  },
-  "com.ags.blockpuzzle.woodblockpuzzle": {
-     "MainSettings": {
-        "LimitAds": true
-     }
   }
 }
