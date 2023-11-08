@@ -1,6 +1,6 @@
 {
   "MainSettings": {
-    "AdBreakTime": 0.8, // 1 = 60 Seconds
+    "AdBreakTime": 1.5, // 1 = 60 Seconds
     "HomeEnabled": false,
     "LimitAds": false,
     "AdsRandomly": false,
@@ -34,8 +34,12 @@
   "com.xdideveloper.bubblefall": {
     //"LatestVersion": "4.9"
      "MainSettings": {
-        "LimitAds": true,
-        "AdBreakTime": 1.5
+        "LimitAds": true
+     }
+  },
+  "com.ags.blockpuzzle.woodblockpuzzle": {
+     "MainSettings": {
+        "LimitAds": true
      }
   }
 }
