@@ -6,8 +6,8 @@
     "InternetRequired": false,
     "InternetMessage": true,
     "AdsRandomly": false,
-    "AdsRandomlyMin": 0.5,
-    "AdsRandomlyMax": 0.6
+    "AdsRandomlyMin": 1.3,
+    "AdsRandomlyMax": 2.0
   },
   "AdSettings": {
     "AdNetworkName": "IronSource", // IronSource, Applovin
@@ -37,11 +37,6 @@
     //"LatestVersion": "4.9"
      "MainSettings": {
         "LimitAds": true 
-     }
-  },
-  "com.ags.blockpuzzle.woodblockpuzzle": {
-    "MainSettings": {
-        "AdsRandomly": true
      }
   }
 }
